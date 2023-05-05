@@ -1,0 +1,12 @@
+
+Quittung
+~~~~~~~~~~
+Kunde: Sara MEIER
+ 
+Bestellungen
+~~~~~~~~~~
+101. Pizza Tunfisch	50€
+201. Auflauf Kartoffeln	9€
+
+Total : 59€
+Vielen Dank für Ihren Besuch

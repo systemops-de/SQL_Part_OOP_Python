@@ -1,0 +1,22 @@
+{
+    "application": {
+                    "app_title": "Acasa Restaurant",
+                    "version": "1.0"
+                    },
+    "DB": {
+        "sqlite":{
+                "db_engine": "SQLITE",
+                "db_path": "...."
+                },
+        
+        "mysql":{
+                "dbhost": "MySQL",
+                "dbname": "",
+                "dbuser": "....",
+                "dbpassword": "....",
+                "port": "...."
+                }
+
+    }
+                
+}
